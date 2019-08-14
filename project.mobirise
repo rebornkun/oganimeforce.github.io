@@ -1,0 +1,2361 @@
+{
+  "settings": {
+    "name": "ANIME FORCE",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#777777",
+        "#222222"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.2",
+    "siteFonts": [],
+    "uniqCompNum": 54,
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/first-2000x2000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ANIME FORCE",
+          "text": "<b>you gotta win so it looks like you're cheating</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-4"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "terms and conditions",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6"
+        },
+        {
+          "text": "<p>terms and condtions</p><p><br></p><p>1.all rights to this site and game are reserved to the omega studios.</p><p>2.copyright and fraud shall not be allowed in or about the game ,if caught will be strictly punished.</p><p>3.the omega studios have right to sue you for voilation of the laws</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "how to play",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photogrid-1547978949185-2000x2000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.5
+          },
+          "title": "welcome to ANIME FORCE",
+          "text": "my name is drake and i will be teaching you this tutorial.. please bear with us or if you are lucky the rules will be explianed personally by an admin.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-d"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photogrid-1547979169251-2000x2000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "part 1",
+                "contentAlign": "right",
+                "text": "<br>first you will need what you call a character card that looks like this.&nbsp;<br>\n<br>&nbsp;NAME: draktony&nbsp;<br>Hp: 16 ; cp: 15\n<br>Village: wall Maria\n<br>Race: titan\n<br>Crown: 2500\n<br>Rank: kami\n<br><b><i> skills</i></b>\n<br>A- punch\n<br>B-kick\n<br>C-wall smash\n<br>D-solid shield\n<br>E-rush\n<br>F-KKG attack titan\n<br>G-/empty/\n<br>H-/empty/\n<br>\n<br>to get that you all you have to do is submit your real name, character name and then a village, race and which you must choose from the ones provided in the game . the details of the race and villages are in the race and village section. the you will be granted 3 random skills from your choosen race skill set then a special ability (also known as KKG) to differ you from your race mates.&nbsp;<br>&nbsp;<br>PLEASE IF YOU UNDERSTAND SO FAR CONTINUE TO THE NEXT TUTORIAL BY CLICKING THE ARROW BELLOW.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photogrid-1547979670410-2000x2000.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "PART 2",
+                "contentAlign": "left",
+                "text": "thank God you understood the first part ..lets move.<br>&nbsp;lets take an example... (please dont be lazy to read) ... i want my race to be sayain and my village planet vegeta.. you start by sending the message to the number below.\"hello\".(dont type the pries).. it will ask you what you want and allow you choose what you want, input character create.<br>it will tell you what to input(please just do what it says)... after that you will have to wait for your card to be given to you .. save it at a save place and please dont try to edit it because we will know and you will be punished.<br>IF YOU ARE DONE WITH THIS PAGE ENTER THE NEXT<br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CHARACTER BOT</a> "
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "PART 3",
+                "contentAlign": "center",
+                "text": "lets skip before you get your card to actual battle.. lets say this is your card.<br><br>NAME: draktony \n<br>Hp: 16 ; cp: 15 \n<br>Village: wall Maria \n<br>Race: titan \n<br>Crown: 2500 \n<br>Rank: kami \n<br>skills \n<br>A- punch \n<br>B-kick \n<br>C-wall smash \n<br>D-solid shield \n<br>E-rush \n<br>F-KKG attack titan &nbsp;<br><br>before the game begins they is somthing called a mod script.. this script shows all players hp(health points), cp(charge points), turn and which player turn to play int the format below.<br><br>Draktony\n<br>Hp:16\n<br>Cp:15\n<br>\n<br>Vs\n<br>\n<br>Computer\n<br>HP:10\n<br>CP:10\n<br>\n<br>Turn 1\n<br>P1 plays<br><br>since am you are the one starting cause you are player 1.. you can use a skill from your skill set. they are types of skill that can be used on the battlefield at a paticular time. these you will learn as you play the game.<br><br>the battle goes turn by turn till one player dies or surrenders.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-c",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "races and villages",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-e"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "RACES AND VILLAGES",
+          "text": "you can choose from the different races and villages of your liking.<br>&nbsp;a village is basically is your originated site…in online mode you will be they are different locations which are villages ..a player can be a king or the queen of a particular villages, royalty battles can happen every Sunday monsters and even boss can be seen on those maps .even world pvp van happen there too\n<br><br>NOTE: THE RACES WITH \"(u)\" IN FRONT ARE UNDER CONSTUCTION AND ARE NOT READY FOR USE YET AND \"(N)\" ARE FOR RACES THAT JUST NEWLY ARRIVED.<br><br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ssj1-436x349.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "race:SAYAIN",
+          "text": "<p>Sayains from dragon ball, these are alien creatures with super abilities that surpasses far from normal humans;there are often said to be monkeys but are not. There basically use Ki as so called energy to shoot out beams that can level planets but that’s not the main thing ,they have massive strength and durability to withstand planet size threatening attacks which states them as brawlers(powerhouses). Sayains have a starting hp of 15, cp of 10 and as a normal attack stats of kick 3 and punch 3 but have a initial skill set of 10. </p><p>specials aka Kekkai Genkai(KKG)\n</p><p>KKG-low level sayain:&nbsp;This can only be activated when a Sayains health is 7 or below, when activated, all damages done to opponent is increased by 1, you can only use an attacking skill after this. You still pay the cp for the attack. 2cp to use.&nbsp;\n</p><p>KKG-elite sayain: When your life reaches zero, gain 3hp, this skill auto-activates and can only occur when you are dead, you play next. 3cp to use</p><p>KKG-royal sayian:&nbsp;when this is activated , all damage done to other sayain are increased by 2,while other races are increased by 1. can only be activated when your hp is 1.5 below your original hp.</p><p>KKG-legendary sayain: When your health is at 5 or below, you can turn into a legendary super saiyan without using the cp for it . you also get legendary super sayain on your card which can be used but you pay cp to.</p><p>KKG-sayain god: you get a super sayain god mode. when you die ,you turn into a super sayain god with additional 1/5 your original hp and cp.3cp to activate</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/narutos-sage-mode-436x245.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>race:NINJA</p>",
+          "text": "<p>Ninja: ninja are human which are blessed with chakra been able to control and use elemental abilities and cities or country size damage. Ninja are basically strategic so to use one you have to be one. Ninjas have a starting hp of 10 ,cp of 15 and a normal punch and kick of 2 each but has a initial skill set of 15&nbsp;<br></p><p>. Kekkai Genkai(KKG),&nbsp;\n</p><p>KKG-uzumaki: increase your chakra by 2 in your end turn lasts for 3 of your end turns.</p><p>KKG-Senju Blood Element: This Enables its user to use one move of any other character(USED OR UNUSED and can be used if you know it off head and or guess with the alpha-card system) in the field except summoning moves but you can copy kkg except ones that turn you into modes. The move must be used immediately. +2cp to use, you still use cp for the other move used.</p><p>KKG-uchiha:(you get the ability acording to your rank, you can also use ability of lower rank but only one per battle)</p><p>1 dot sharingan(read movements)- &nbsp;opponent must tell you his move/skill that their will use in the next turn, you play again.2cp . E RANK NEEDED</p><p>2 dot sharingan(compell)- You tell your opponent the next move he/she uses and he/she must do it accordingly. This skill makes opponent use skills against himself/herself only if you know the skill off heart(you play after this skill is used and skipping is not allowed). 3cp to use. C RANK NEEDED</p><p>3 dot sharingan(genjustu)- you tell the admin secretly that you use this skill then in the real battle you play skip(you cant use this skill if you will die by it) then opponent plays and after that you reaveal it was a genjustu and the skill your opponent used are void and wasted all hp or cp you lot are given to you including the hp lost from the skip. B RANK NEEDED&nbsp;</p><p>susanoo - you can use the sussano beast now(you use cp thuo).A RANK NEEDED</p><p>mangekyo sharingan-(once you are eligible to use this you will get one from the ones below and you cant use any other from this category )A RANK NEEDED</p><p>**** Amaterastu(atk/time): Opponent loses 1hp every of their end turn, this effect cannot be neglected or nulified but will not take effect if opponent as a def skill out. 4cp to use.</p><p>****tsuyomi(advance genjustu)(time):you tell the admin secretly that you use this skill then in the real battle you play skip(you cant use this skill if you will die by it) then after opponent second turn that this skill has been activated you reaveal it was a tsuyomi and the skill your opponent used are void and wasted all hp or cp you lot are given to you including the hp lost from the skip.</p><p>****Inzanami(time): User commands opponent to use up to 2 moves(choosen by alphabet order) on himself. If attack skills are commanded, the cp of the skills used must not excede 5 and max damage opponent recieves is 8. If move chosen cannot be used it is striked out except kkg. After use you cannot play in your next turn. 6cp to use.</p><p>****Inzanagi(time): This move restarts the battle, can only be used when your health is an odd number(1, 3 &amp; 5 only). Can only be used once per battle. After 5 of your end turns and the battle is not over, you automatically lose the battle. Skills used before cannot be used by user or opponent. 5cp to use.</p><p>****custom(op): you can customize your own magenkyo sharingan ability with enough xp talk to your admins.</p><p>ranningan:(COMING SOON)</p><p>KKG-HATAKE: User can use one of any opponent move(only used moves), you can decide to use the move immediately or keep it for later. Summoning moves can be copied, but those must be used immediately) rules of the jutsu apply. 3cp to use\n</p><p>KKG-HYUGA(Byakugan):neglects opponent last and next move ( i.e: Opponents last move would be neglects, then opponents plays another move which would also be neglects)(opponent can skip). all your attack skills that affects your opponent only decrease their cp by 1 each time. 4cp to use.</p><p>KKG-Jougan:&nbsp;When your health is below 5, and you are about to take damage, pay half your health and opponent will take the damage instead of you, you play next. 3cp to use.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-k"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/natsu-fire-thunder-dragon-modeda681ed-436x678.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>race:WIZARDS/MAGES(U)</p>",
+          "text": "<p>Wizard: these wizards are from animes like fairy tale , black clover and so on. They basically use magic with mana but can only control elements or type like fire, water, space, time, particle and so on. Each having their own unique abilities, but as a hint using wizard skill with same element will be best for they are various combo you could do by just doing so. Having a initial hp of 12 and cp of 13 then attack points are punch 2 and kick 3. Each wizard has basic elements they specify in(you can learn more elements as you rank up and pay xp);</p><p>fire,water,earth,air,lava,explosion,ice,posion,cystal,gravity,lightening,body,darknesss.(others will be added later)</p><p>\n</p><p>Kekkai Genkai(KKG)are as follow-\n</p><p>KKG-dragon slayer: you get the following skill to your skill set</p><p>&nbsp;****breath of the \"your element\" dragon: this deal 7 damage to opponent(cant be used in your first turn). 4cp to use.</p><p>\n</p><p>****wing shield of the \"your element\" dragon: creates a shield with 5hp. 3cp to use.&nbsp;</p><p>KKG-5 leaf clover:&nbsp;you can neglect attacks as far you pay cp equal to half the damage you were suppose to take, you play again and cannot be used again until 1 turn cooldown. ?cp to use.and after the first turn it was activated any time you attack opponents with attack skills they lose.</p><p>KKG-wolford:&nbsp;When your cp is lower than 4 gain 5cp, the floor of the field turns to a black hole which decreases all damage done to you by 1. If this skill is used, after 5 of your turns you lose the match because it drains so much stamina. 3cp to use.\n</p><p>KKG-Physical Attack Immunity(trap):&nbsp;All damage that involve puch, kick and close range weapons are cancelled, can be used 3 times, after use, opponent plays next. 3cp to use.\n</p><p>KKG-High Magic Nullification(trap): atk skills involving cp higher than 5-10 are nullified, can be used once. After use, opponent plays next. 3cp to use.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-l"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2019-08-12-14h23m44s714-656x369.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>race:SHINIGAMI/SAMARAIS\"(U)\"</p>",
+          "text": "<p>Shinigami/samarais: and now we have bleach , ginatama and others basically sword and martail arts users. These class actually fight with speed and skills . \nalthough shinigami and samarais are not same we have to merge them here cause they are basically same thing. in this race you have a hp of 12 and cp of 13 then attack points are punch 2 and kick 3.</p><p></p><div>KKG below</div><div><br></div><div>KKG- soul reaper: choose a weapon from katana, short sword, dual swords, dual knifes, axe and wrecking ball. you have access to shikai and bankai mode in the mode section. your shikai will be given to you by your admin.&nbsp;</div><div>KKG-halo: you have access to the erankar mode and you get this skill.choose a weapon from katana, short sword, dual swords, dual knifes, axe and wrecking ball.you have access to special ability which will be given by the admin.</div><div>***cero : you pay cp from 1 to 5 the cp paid is multiplied by 1.5 and given to opponent as damage, opponent cant attack next turn. ?cp</div><div>KKG-quincy: for every skill you use you gain 1 cp, you can only use bows and ranged attacks are increased by 1.</div><div>KKG-yato: funny as it sounds you use umbellas to fight. you can use both ranged and melee attacks.all your attacks are increased by 1.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/enchant-hellblaze-436x245.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>race:SPELLCASTER\"(U)\"</p>",
+          "text": "<p>Spellcaster: spellcaster from animes like overlord, reincarnated as a slime etc quite decribes this class as there can do things by using magic spells with mana although it takes some high level spellcaster to do some godly shit. their initial hp is 10 and cp is 17. normal attack of punch 1 and kick 1 and initial skill set limit of 15</p><p> \n</p><p>KKG(coming soon)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-m"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kumogakure-436x246.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:KUMOGAKURE</p>",
+          "text": "<div>KUMOGAKURE(Village of the Hidden Clouds)\u000bRAIKAGE POWER: This kage gets an additional skill and punch at every match\u000bLEADER(Raikage):\u000b</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/planet-vegeta-360x450.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:PLANET VEGETA</p>",
+          "text": "<div>PLANET VEGETA\u000bKING'S POWER: This saiyan gets 3hp and 3cp at every match\u000bKING:\n</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-s"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/otogakure-436x245.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:SOUL SOCIETY</p>",
+          "text": "<div>SOUL SOCIETY(Village of the souls)commander POWER: This commander gets an additional 2hp and 4cp at every match\u000bLEADER(commander):</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-t"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/konohagakure-436x245.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:LOINES</p>",
+          "text": "<div>loines(Village of the human clan) holy king POWER: This king gets an additional 3hp and 1cp at every match&nbsp;\u000bLEADER(holy king):\r</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/iwagaure-436x246.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:IWAKUGURE</p>",
+          "text": "<div>\n</div><div>IWAGAKURE(Village of the Hidden Stone)\u000bTSUCHIKAGE POWER:This kage gets an additional 3cp and kick at every match.\u000bLEADER(Tsuchikage):</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-o"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kirigakure-436x245.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:KIRIGAKURE</p>",
+          "text": "<div>KIRIGAKURE(Village of the Hidden Mist)\u000bMIZUKAGE POWER: This kage gets an additional 4hp and a boost move at every match\u000bLEADER(Mizukage):</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-p"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#222222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sunagakure-2-436x246.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<p>village:SUNKAKURE</p>",
+          "text": "<div>SUNKAKURE(Village of the Hidden Sands)\u000bKAZEKAGE POWER: This kage gets an additional 2cp and 2hp at every match\u000bLEADER(Kazekage):\u000b\n</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-q"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "skills",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-v"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photogrid-1547981919966-2000x2000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "SKILLS<br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-y",
+          "_styles": {
+            "P": {
+              "color": "#222222",
+              "font-size": "9px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "text": "<p>SKILLS</p><p>When you have gotten a character card, the actions or the skills(except KKGs) which are on your card can be found here. Skills on this page can also be bought using xPs. The xPs of skills are stated at the end of the move.\n</p><p>TYPES OF SKILLS\n</p><p>There are 6 different type of skills the skill type is stated in a bracket after the name of the skill. The 6 types are as follows;\n</p><p>(trap)Normal Skill: these are skills that activate when a certain condition is met either in opponents or users turn although user can choose to activate it or not.</p><p>(atk) Attacking&nbsp;Skill: these type of skills deal damage to opponents </p><p>(time) Time Skill: these are skills that take  more than one turn to fufll their purpose</p><p>(def) Defensive Skill: these are skills that prevent you from losing hp such as sheild ,barriers etc</p><p>(neg) Neglecting Skill: these skills stop effect of other skills base on condition</p><p>(gain) Gain Skill: these types of skill increase your stats, hp or cp or even allow you play more than once.\n</p><p><br></p><p>Note:&nbsp;A skill slot can only hold one skill, but when the slot holds a mode, it can contain 3 modes.If a turn is skipped you lose 2hp but gain 2cp.You can only use a particular skill once, unless it is stated in the description of the skill that it can be used more than once. But some skills take turns to recharge for use again thuo.A skill can be wasted, which means, if the move is used in a wrong situation, the move is counted but will have no effect in the battle.To use a skill against a player, will be explained later on.\u000bA move can be sold for half the XPs it is worth. they are also skills that require certain weapons to be able to use them</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-z"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photogrid-1547979670410-2000x2000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "SAYAIN SKILLS",
+                "contentAlign": "right",
+                "text": "SAIYAN SKILLS (scroll fwon and click arrows for next skill set)\n<br>Punch &amp; Kick are the first skills owned by a saiyan, These take 3hp, They cannot be sold and they require no cp to use. \n<br> 1) All Clear(atk): Give opponent 2 damage. This skill cannot be neglected. 0cp to use. 10xp to buy. \n<br>2) Burning Slash(atk): GIve opponent 4 damage. 2cp to use. 28xp to buy \n<br>3) Arm Crash(trap): If an opponent is trying to use a defensive skill, this skill destroys it and gives opponent damage according to the cp of the defensive skill used. 1cp to use. 8xp to buy. \n<br>4) Charge(gain): Increase your cp by 1 in both you and your opponents end turn until, this skill is canceled when you use another skill or opponents use one that affects you. 0cp to use. 30xp to buy. \n<br>5) Super Charge(gain):Increase your cp by 2 in both you and your opponents end turn until, this skill is canceled when you use another skill or opponents use one that affects you. 0cp to use. 40xp to buy. \n<br>6) Fake Death(time): Your health turns to 0 at this turn and remains at 0 until the start of your next turn and returns to its original point with an additional 3hp. 3cp to use. 23xp to buy. \n<br>7) Burst(gain): You gain an extra punch &amp; kick. in 2 free skill slot 5cp to use. 15xp to buy. \n<br>8) Unlock Potential(gain): All your attacks are increased by 1 for 4 of your end turns (countdown starts from your next turn). 3cp to use. 15xp to buy. \n<br>9) Kamehameha(atk): Does 3 damage to opponent. 1cp to use. 15xp to buy. \n<br>10) Full Powered Kamehameha(atk): Does 5 damage to opponent. 3cp to use. 30xp to buy. \n<br>11) Evil Ray Strike(time): Your opponent takes 2 damage for 3 of their end turns. 4cp to use. 28xp to buy. \n<br>12) Solar Flare(gain): You can play 2 additional skills in your card after this is used. If attacking skills are used, maximum damage cannot exceed 10. Can only be used if opponent gives you damage in their previous turn. 2cp to use. 30xp to buy. \n<br>13) Ki Blast(atk/gain): Give opponent 1 damage and gain 1 used skill back(except this one). 1cp to use 24xp to buy.\n<br>14) Destructo Disc(atk): Does 4 damage to opponent. This skill cannot be blocked by a defensive skill, if a defensive skill is already used by the opponent destroy it. 3cp to use. 31xp to buy.\n<br>15) Rampage Destructo Disc(atk): Spawn 4 destructo discs and fire at opponent. Your opponent can pay 3cp to destroy one disc. 6cp to use, cannot be used unless your health is 5 or below. 40xp to buy. \n<br>16) Ki Shield(def): Make a shield with a health of 5. Your life cannot be harmed by opponent atk skills until this shield is destroyed. 3cp to use. 17xp to buy. \n<br>17) Special Beam Cannon(atk): Does 7 damage to opponent, but you do cant play in your next turn although the turn is counted and recorded, you also dont lose hp for the skipped turn. 5cp to use. 29xp to buy. \n<br>18) Change O(time):  Switch your card, health &amp; cp with that of your opponent. This lasts for 4 of your opponent's end turns. Can only be used if you do not recieve damage in your previous turn and if your opponent's hp is 1.5% lower than their starting hp. 5cp to use. 40xp to buy. \n<br>19) Fusion Dance(gain): this skill requires 2 or characters to have this same skill in their skill set.When used both fusion dance in both users are removed then both user's health and cp are added together and mutiplied by 1.5. Your skill list is added together as well. All damage you give is added by 1, the newly formed character can add the two same atk skills but of different users i same body and merge both skills together although both skills cp are also added and are multiplied by 1.5 . 5cp to use. Lasts for 10 of your end turns. 45xp to buy. \n<br>20) After-Image Technique(neg): Neglects the next 3 of your opponent's physical attacks (attacks that dont use cp) for opponents next 2 turns. 4cp to use. 18xp to buy. \n<br>21) Masenko(atk): Do 3 damage to opponent. If this skill was not defended, neglected or reflected, you can use the skill 2 more times and you do not need cp for the remaining 2. 4cp to use. 24xp to buy. \n<br>22) Emperor Death Ball(atk): Does 8 damage to opponent. Opponent can neglect this damage by paying 8cp. 7cp to use. 38xp to buy. \n<br>23) Emperor Death Beam(atk/time): All opponents takes 1 damage for 3 of their end turns. 3cp to activate. 28xp to buy. \n<br>24) Super Explosion(atk): Everyone in the field including allies take 5 damage and you take 2 damage. 4cp to use. 24xp to buy. \n<br>25) Self Destruct(atk):after all is lost or you just wanna be a bitch by blowing yourself up like yamcha, Do damage to everyone in the field(including you) according to your hp subtracted by your cp and multipied by 2. Can only be used when your health is 2 and below. 3cp to use(cp is removed after use). 37xp to buy. \n<br>26) Super Punch(gain): by adding cp to your punch .Do 2 times your punch damage to your opponent. After this skill is used, punch cannot be used anymore. 3cp to use 19xp to buy. \n<br>27) Instant Transmission(neg): When you are about to take damage from an attacking skill, neglect the damage by paying the cp according to the amount of damage you were supposed to take. Can be used 2 times in a battle. Does not work on physical attacks(attacks that dont use cp) . 15xp to buy. \n<br>28) Backward Kamehameha(neg): when nigga taught he got you, you pull out going back with a kamehameha pushing you back.Do 1 damage to opponent and nelglect opponent's previous damage done to you. Max damage that can be neglected damage is 10. 3cp to use. 28xp to buy. \n<br>29) Dragon Fist(atk): you throw your opponent in the air, raising your fist to give him an air uppercut with a dragon assisting the punch. If you recieve 4 and below damage in opponent's last turn, give opponent that same damage +2. 3cp to use. 28xp to buy. \n<br>30) Super Dragon Fist(atk): you throw your opponent in the air, raising your fist to give him an air uppercut with a golden dragon assisting the punch .If you recieve 6 and below damage in opponent's last turn, give opponent that same damage multiplied by 2, opponent cannot die from this attack, if his/her health finishes, change it to 1. 6cp to use. 38xp to buy. \n<br>31)  Triangle Ki Blast(atk): shaping your two hands to form a diamond shape, you gather mana for a super blast. Choose &amp; pay between 1, 2, 3, 4 or 5 cp, the amount paid will be multiplied by 1.5 and given to opponent as damage. Can only be used if you recieve no damage in your last turn. 25xp to buy. \n<br>32) Spiral Bomb(atk): When you opponent's cp is higher than yours by 3 and above, you can pay any amount of cp and multiply that amount by 1.5 and give your opponent that damage. Opponent can pay cp to reduce the damage accordingly. 29xp to buy. \n<br>33) Kaio-ken(time): this skill unleashes a red aura around you which increses your speed and attack by 1.5,but strains your body so using it for too lond might or will kill you. All your attacks are multiplied by 1.5. You lose 1hp every end turn except the turn it was used. 20xp to buy. \n<br>34) Kaio-ken x3(time): this skill unleashes a red aura around you which increses your speed and attack by 2,but strains your body so using it for too lond might or will kill you. All your attacks are multiplied by 2. You lose 1.5hp every end turn except the turn it was used. D Rank needed. 30xp to buy. \n<br>35) Kaio-ken x10(time): this skill unleashes a red aura around you which increses your speed and attack by 6,but strains your body so using at all will kill you. All your attacks are multiplied by 6. You lose 4hp every end turn except the turn it was used. A rank needed. 70xp to buy. \n<br>36) Final Flash(atk): placing your hands like you are squezzing b**bs but you are just charging a attack that might clearly destory the world. (cant be used at the first turn)Do damage to opponent according to the difference between the user and the opponent's cp. Damage cannot excede 10. 5cp to use. 39xp to buy.  \n<br>37) Super Final Flash(atk):placing your hands like you are squezzing a** but you are just charging a attack that might clearly destory the universe.(cant be used at the first turn) Do damage to 3 or less opponent(s) according to the difference between the user and the opponents' cp. Damage cannot excede 12. 5cp to use. 58xp to buy.  \n<br>38) Galick Gun(atk): Does 3 damage to opponent. 0cp to use. 20xp to buy. \n<br>39) Super Galick Gun(atk): Does 5 damage to opponent. 3cp to use. 30xp to buy. \n<br>40) Guard(def): Block opponent's next atk skill. 1cp to use. 15xp to buy. \n<br>41) Kamikaze Ghost Attack(atk): Do 4 damage to opponent. Can only be used when opponent's life is higher than yours. 2cp to use. 10xp to buy. \n<br>42) Super Speed Attack(atk): Do 3 damage to opponent. This skill cannot be nelected by opponent's last or next turn, if opponent tries to neglect it, destroy the neglect skill and do further 3 damage to opponent. 3cp to use. 29xp to buy. \n<br>43) Regenerate(gain/neg): Gain 5hp, opponent cannot do you damage in his turn after this is used. 4cp to use. 25xp to buy. \n<br>44) Burning Attack(atk/gain): You can choose to either give opponent 4hp damage or remove damage done to you by opponent in their previous turn, remove max is 6. 3cp to use. 15xp to buy. \n<br>45) Super Kamikaze Ghost Attack(atk):(cant be used at the first turn) Spawn 5 ghosts, each with a damage of 2, opponent can pay 3cp to destroy 1 ghost. 6cp to use. 38xp to buy. \n<br>46) Wolf Fang Fist(gain): Fill all your usable slots with either the punch or kick skill. 6cp tp use. 16xp to buy. \n<br>47) BuuBuu Volleyball(time): Opponent can only use punch, kick &amp; skip for their next 2 turns(other variations of punch and kick can be used), opponent cannot play or activate any skill in user's turn during this period. 2cp to activate. 23xp to buy. \n<br>48) Interdimensional Warp(neg): Opponent cannot target you for any skill in their next turn. Can be used in opponent's turn when you are about to take damage then you just dont take the damage. 4cp to use. 38xp to buy. \n<br>49) Scream Attack(atk): Do 2 damage to opponent. 0cp to use. 6xp to buy. \n<br>50) Combo Kick(gain): All your kicks do double damage till the end of the game. 3cp to use. 17xp to buy. \n<br>51) Energy Weapon(gain): Each time you skip a turn you opponent recieves half the damage, lasts for the whole battle. 3cp to activate. 17xp to buy. \n<br>52) god Clones(gain): Make 2 clones of yourself, the clones have 1hp each and they have all your skills including the ones you have used(except this one) but not your KKG. The clones still make use of your cp. Opponent cannot attack you until your clones are destroyed. You can cut your health to half to summon another clone if one is destroyed, you cannot die by this effect, if your health reaches 0 during this effect, change your health to one but cant use it when life is one. B Rank required to use. 5cp to use. 41xp to buy. \n<br>53) Ultra Instinct:(Time): All opponent's attacks/damage delay a turn before affecting you, and their damage is reduced by 1.5. Lasts for 3 of opponent's attacks. B Rank Needed. 4cp to activate. 35xp to buy. \n<br>54) Mastered Ultra Instinct(Time):  All opponent's attacks delay a turn before affecting you, and their damage is reduced by 2. Lasts for 4 of opponent's attacks. A Rank Needed. 4cp to activate. 45xp to buy. \n<br>55) Destruction Ball Bearing(atk): Give all players in the field except yourself 5 damage but they gain 3cp each. 4cp to use. 33xp to buy. \n<br>56) Destabilize(neg): Destroy all skills that last for more than 1 turn, this skill cannot be neglected(it can be used no matter what), you still play. 4cp to use. 17xp to buy. \n<br>57) Soul Punisher(neg): When your health is 3 or below, choose a number from 1 to 3, tell the number to the modder privately. Opponent tries to guess the number, if the number is guessed wrong by opponent, you win, if it is guessed right, you lose. Can only be used if opponent's health is 8 &amp; below. or roll a die , odd number means win even mean lose. 25xp to buy. \n<br>58) Fake Moon: Instantly turn into your beast without waiting for your health to deplete, but you do not get the additional health and cp from the transformation. 3cp to use. 20xp to buy. \n<br>59) Health Makes Energy(nom): Turn any amount of health into cp.max is 7. 20xp to buy \n<br>60) Energy Makes Health(nom): Turn any amount of cp into health, max is 5. 20xp to buy. \n<br>61) Picture Strike(atk): When used, the amount of cp your opponent has is the amount of damage your opponent recieves, cannot be used if opponent's cp is higher than 10, max damage is 10. 5cp to use. 55xp to buy. \n<br>62) Dash(atk): Attack your opponent with the same attack you used in your last turn. 19xp to buy. \n<br>63) Charged Blast(atk): Do damage to opponent according to the difference between the user and the opponent's health. Damage cannot excede 8. 4cp to use. 39xp to buy. \n<br>64) Ki Retaliation(gain/trap): When your opponent gives you damage, you recieve cp according to the amount of damage given, you still take damage, max cp recievable is 7, can be used in opponent's turn, you still play. 29xp to buy. \n<br>66) One For All(gain): You and one of your allies fuse 2 of your seperate attack moves together for 1 attack(must be attack skills). If this does not kill at least one of your opponents you and your partner lose the battle. 3cp to use. 26xp to buy. \n<br>67) Final Hope(atk): When your health is 2 or below, you gain all your moves back and you fuse any 2 for one final attack, if your opponent does not die by this you lose the battle .you still use cp for both attacks. 1cp to use. 30xp to buy. \n<br>68) Fly(time): This skill makes you fly. Opponent that are not on fly cant damage you with physical attacks(attacks that dont use cp). 3cp to activate. 24xp to buy. \n<br>69) Focus(gain): After using this, you play again, must be an attack, the attack cannot be neglected. 2cp to use 28xp to buy. \n<br>70) Star Roaring Cannon(atk/time): Give opponent 4 damage for 2 of opponent's end turns, you cannot attack that opponent the turn after using this. 5cp to use. 19xp to buy. \n<br>71) Energy Nulification(time): Opponent's attacks for two of their turns cannot affect you. 4cp to use. 21xp to buy. \n<br>72) Continous Kamehameha(atk): Give opponent 4 damage. you can continue by using 3cp to do another 3 damage. 2cp to use. 34xp to buy.  \n<br>73) Twin Dragon Shot(atk): Give up to 3 opponents 4 damage. 4cp to use. 26xp to buy. \n<br>74) Destructo Disc Hexa Blade(atk): Give 5 players 5 damage. 7cp to use. 22xp to buy. \n<br>75) Advanced Ki Shield(def): Make a shield with a health of 8. Your life cannot be harmed by opponent until this shield is destroyed. 4cp to use. 23xp to buy. \n<br>76) Perfect Barrier(def): This can be used in opponent's turn. Send back any attack skill used by opponent(i.e opponent recieves the damage), this works even on skills that cannot be neglected, you have to skip a turn after using this. 5cp to use. 35xp to buy. (locked) \n<br>77) Spirit Bomb(atk): (only when your hp is below 10) use any amount of cp , the damage is 1.5 multiplied by the cp used for the attack, allies can agree to give you more cp to continue growing the attack. damage is given to opponent in your next turn. ?cp to use. 48xp to buy.\n<br>78) Super Spirit Bomb(atk): (only when your hp is below 7) use any amount of cp , the damage is 2.5 multiplied by the cp used for the attack, allies can agree to give you more cp to continue growing the attack. damage is given to opponent in your next 2 turns(if you are on fly it only takes 1 turn). ?cp to use. 68xp to buy.\n<br>79) Chakra Fruit(gain): You gain 5cp, you still play. 36xp to buy. \n<br>80) void shield(def): Opponent cannot give you damage for 3 of your turns, but skills that give 7 or more damage can destroy this skill. 4cp to activate. 24xp to buy.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photogrid-1547979901289-2000x2000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "NINJA SKILLS",
+                "contentAlign": "left",
+                "text": "NINJA SKILLS\n<br>Punch &amp; Kick are the first skills owned by a ninja, These take 2hp, They cannot be sold and they require no cp to use.\n<br>1)&nbsp;Kamui(neg/trap):&nbsp;Nullifies opponent's next move of immediate next turn, or attack skill right now. 3cp to use. 20xp to buy\n<br>2)&nbsp;Rasengan(atk): -2 from opponent's life. 0cp to use. 15xp to buy\n<br>3)&nbsp;Chidori(atk):&nbsp;-3 from opponent's life. 1cp to use. 23xp to buy.\n<br>4)&nbsp;Sealing(time):&nbsp;Seals one of opponent's move from his skill set, user will have to say the skill name and the alphabet it represents or call a random one to seal. the skill can no longer be used in that battle until opponent's life is 5 or below(it can be broken thuo). 2cp to use. 12xp to buy.\n<br>5)&nbsp;Slug Wall(def):&nbsp;This divides any damage of any opponent attack which uses cp by 2. This lasts till the opponent's 4th turn after activation. 4cp to use. 36xp to buy.\n<br>6)&nbsp;Ritual(gain):&nbsp;This allows its user to switch one of their unused move with one of opponent's unused move. The name of the skills should not be said, but instead the letter of the skills on the players card, you still play. 3cp to use. 24xp to buy.\n<br>7)&nbsp;Voodoo(time):&nbsp;When your opponent gives you damage, he/she also takes the same damage at the end of the turn. This effect lasts till the end of the battle after it is used. This effect cannot occur when you die, cannot redirect damage that is more than 5. 6cp to use. 36xp to buy.\n<br>8)&nbsp;Shinra Tensei(neg):&nbsp;Strike out one opponent's move. You use the letter of the skill in the player's card. If a skill which has been used is called, this has no effect. 3cp to use. 21xp to buy.\n<br>9)&nbsp;Rennin Gakido(def):&nbsp;This skill removes all damage done to you in the last turn &amp; gives opponent the same damage, max damage is 10. 5cp to use. 47xp to buy.\n<br>10)&nbsp;Occular(neg):&nbsp;This removes all damage done to you in previous turn, max is 8. 3cp to use. 22xp to buy.\n<br>11)Scarecrow: This brings 4 used moves back except for this one. Opponent plays after this move is used. 5cp to use. 40xp to buy\n<br>12)Snatch: This enables user to steal an opponents KKG until the health of the player whose KKG has been stolen is below 7. You can use this even if you are dead. KKG stolen can be used now or saved for later. +2cp to use. 55xp<br>13)&nbsp;Curse seal(gain):&nbsp;This is not regarded as an attacking skill, opp must use one of his atk skills against himself/herself. If(and only if) opponent does not have any atk skill or insufficient cp to perform the move, he/she must skip. 27xp to buy.\n<br>14)&nbsp;Chakra Draining Jutsu(time/gain):&nbsp;Take one cp from opponent and add it to yours, occurs at every of your end turns after activation. This effect ends when opponent's cp is finished. 4cp to activate. 24xp to buy.\n<br>15)&nbsp;Double Rashumon Wall(def):&nbsp;Blocks 2 opponent attacks, can last for up to 3 turns. 4cp to use. 25xp to buy.\n<br>16) regen(atk/gain):&nbsp;If used as an atk, -3 from opponent's life, if used as gain, +4hp to user. 2cp to use. 18xp to buy.\n<br>17)Jashin(Speed-Demon): This is a move which allows its user to play, at most two, used(cannot duplicate) moves in one particular turn which will be counted as one single move. +2cp to use.35xp&nbsp;<br>18)&nbsp;Tribute(trap):&nbsp;When the user's life is at 1, force one other player to commit suicide, can only work when the opponent's hp health is 10 &amp; below. A rank needed. 5cp to use. 28xp to buy.\n<br>19)&nbsp;The Mole(nom):&nbsp;Switch your health with that of your opponent, cannot switch health that is more than 11. 5cp to use. 32xp to buy.\n<br>20)&nbsp;Equlibrium(nom):&nbsp;User's health must become equal to that of their opponent, cannot switch health that is more than 20. 5cp to use. 39xp to buy.\n<br>21)&nbsp;Cannengan(nom):&nbsp;This move switches your cp with that of your opponent, cannot switch cp that is more than 12. 27xp to buy.\n<br>22)&nbsp;Gedo Art(beast sealer/time):&nbsp;This move seals opponent's beast(not modes) until their hp reaches 5 &amp; below. 5cp to use. 16xp to buy.\n<br>23)&nbsp;Shadow Paralyzing Jutsu(time):&nbsp;Force opponent to skip 2 turns or pay 5cp. 3cp to use. 23xp to buy.\n<br>24)&nbsp;Chakra Fruit(gain):&nbsp;You gain 5cp, you still play. 16xp to buy.\n<br>25)&nbsp;Shadow Clone Jutsu(nom):&nbsp;Make 2 clones of yourself, the clones have 1hp each and they have all your skills including the ones you have used(except this one) but not your KKG. The clones still make use of your cp. &nbsp;Opponent cannot attack you until your clones are destroyed. The clones are automatically destroyed when your health reaches 3 and below. 4cp to activate. 33xp to buy.\n<br>26)&nbsp;Multi Shadow Clone Jutsu(nom):&nbsp;Make 4 clones of yourself, the clones have 1hp each and they have all your skills including the ones you have used(except this one) but not your KKG. The clones still make use of your cp. Opponent cannot attack you until your clones are destroyed. The clones are automatically destroyed when your health reaches 3 and below. 7cp to activate. 43xp to buy.\n<br>27)&nbsp;Renzenko Shite(neg):&nbsp;This skill affects all players that have justus that last more than one turn, destroy the justsu &amp; give all players affected by this 4hp damage. 5cp to use. 32xp to buy.\n<br>28)&nbsp;Tailnigan(neg/trap):&nbsp;Can be used anytime a justu/skill that reflects or neglects damage is used, neglect that justu(if it can be nelgected) and double the damage. 3cp to use. 22xp to buy.\n<br>29)&nbsp;Gate/Limit Blocker(neg/time):&nbsp;Seal a mode or a beast in the field, opponent cannot use the mode until after 5 of their turns after activation of this skill. 4cp to use 35xp to buy.\n<br>30)&nbsp;Auto Defence Justsu(trap):&nbsp;This justu automatically stops your teamate from taking damage below 5 by an attacking skill. 0cp to use. 17xp to buy.\n<br>31)&nbsp;Chakra Counter Jutsu(neg):&nbsp;Can be used in opponent's turn. When you are about to take damage from a skill that uses cp, your opponent takes the damage instead but your opponent plays next(can only take effect if the skill to be blocked can be neglected). Max damage is 10. 4cp to use. 23xp to buy.\n<br>32)&nbsp;Pain Day(time):&nbsp;Multiply all damage caused by your attacking skills by 2. You die after 4 of your end turns after activation as long as this skill is still active. 4cp to use. 37xp to buy.\n<br>33)&nbsp;Eternal Link Ninjustu(gain/time):&nbsp;All allies, including clones, in the battle recieve the same amount of cp you recieve, but both you and your allies take damage you take together as well. 3cp to activate. 28xp to buy.\n<br>34)&nbsp;Body Switching Jutsu(nom): Switch your card, health &amp; cp with that of your opponent. This lasts for 3 of your opponent's end turns. Can only be used if you recieve damage in your previous turn and if your opponent's hp is lower than 11. 5cp to use. 20xp to buy.\n<br>35)&nbsp;Eternal Sealing Jutsu(nom):&nbsp;Seal two of opponent's moves which cannot be used until opponent's health reaches half of what it was when this skill was used, KKGs can also be sealed.B rank needed. 4cp to use. 38xp to buy.\n<br>36)&nbsp;Rasengan Barrage(atk):&nbsp;When you have clones in the field, give your opponent damage for each clone you have, your clones cannot use attacking skills the turn this skill was used. You must be the one to play this move and not any of your clones. 4cp to use. 24xp to buy.\n<br>37)&nbsp;Rasen Shuriken(atk):&nbsp;When you have a clone(s) in the field and you took no damage in the last turn, give opponent 7 damage which cant be neglected or defended. 4cp to use. 26xp to buy.\n<br>38)&nbsp;Lightning Style, Purple Lighting(atk):&nbsp;Give opponent 5 damage. This skill cannot be neglected. 3cp to use. 18xp to buy.\n<br>39)&nbsp;Vanishing Rasengan(atk):&nbsp;Give 4 damage to opponent in the beginning of their 2nd turn after activation. 25xp to buy<br>40)&nbsp;Ultimate Punch(atk): Give opponent 4 damage(can be used 2 times in a battle). 3cp to use. 15xp to buy.\n<br>41)&nbsp;Mystical Palm Technique(gain):&nbsp;Give 3hp to all allies in the field and give yourself 5hp. 6cp to use. 26xp to buy.\n<br>42)&nbsp;Seal Breaker(neg):&nbsp;Destroy a time skill and give the user 3hp damage. 4cp to use. 29xp to buy.\n<br>43)&nbsp;FireBall(atk):&nbsp;Give opponent 3 damage. 1cp to use. 20xp to buy.\n<br>44)&nbsp;Substitution(trap):&nbsp;When you are about to recieve damage that is 4 or below, pay 2cp to neglect the damage. Can be used 2 times in a battle and can also be used in opponent's turn. 25xp to buy.\n<br>45)&nbsp;Wood Spear(atk):&nbsp;Give 3hp damage to two opponents ,cant use for only one. 2cp to use. 25xp to buy.\n<br>46)&nbsp;Fire Barrier(neg/def):&nbsp;Reflect all damage done to you in your last turn to the users of the skills that gave you the damage. Max damage return is 10. 5cp to use. 47xp to buy.\n<br>47)&nbsp;Last Momment(gain):&nbsp;Add 5cp to user, can be used when your hp is 3 or below, you still play. 0cp to use. 28xp to buy.\n<br>48)&nbsp;Red Blood Sacrifice(time):&nbsp;Everyone(including you) loses 2hp every of your end turn. 3cp to activate. 17xp to buy.&nbsp;\n<br>\n&nbsp;49)&nbsp;Blue Chakra Sacrifice(time):&nbsp;Everyone(including you) loses 2cp every of your end turn. 2cp to activate. 15xp to buy.\n<br>50)&nbsp;Sacrifical Clone Ultimate Technique(time):&nbsp;This skill can only be used if your health and chakra is 5 or below and when you have used both Red Blood Sacrifice &amp; Blue Chakra Sacrifice. Spawn a clone, opponent cannot attack you as long as the clone is present. The clone cannot be destroyed by damage, neither can it use skills. The clone automatically destroys after 3 of your end turns and all damage done to you since the start of the battle is done to opponent. If you want to further increase damage, reduce your health to 0.5 and give opponent the damage multiplied by 1.5, if your opponent does not die by this you die automatically. 3cp to use. 28xp to buy.\n<br>51)&nbsp;Particle Demolition(atk):&nbsp;Give opponent 6 damage if their health is an odd number, if opponent's health is an even number, give opponent 4 damage. 3cp to use. 27xp to buy.\n<br>52)&nbsp;The Ruler(trap):&nbsp;The damage your opponent does to you is divided equally into health and cp for you, you still take damage, can be used in opponent's turn. 3cp to use. 28xp to buy.\n<br>53)&nbsp;Revolution(neg/trap): Neglect a neglect skill, can be used anytime. 4cp to use 16xp to buy.\n<br>54)&nbsp;Flowing Water Fist(gain/time):&nbsp;All your physical attacks are buffed with an additional 2 damage. They can be used in every of your turn even if you have used them before, lasts for 3 of your end turns. 5cp to activate. 28xp to buy.\n<br>55)&nbsp;One For All(gain): You and one of your partners fuse 2 of your seperate moves together for 1 attack(must be attack skills). If this does not kill at least one of your opponents you and your partner lose the battle. 3cp to use. 26xp to buy.\n<br>56)&nbsp;Hokages Pride:&nbsp;You can borrow one skill from your hokages skill set. 3cp to use. 15xp to activate.\n<br>57) Fly(time): This skill makes you fly. Opponent that are not on fly cant damage you with physical attacks(attacks that dont use cp). 3cp to activate. 24xp to buy. \n<br>58) Focus(gain): After using this, you play again, must be an attack, the attack cannot be neglected. 2cp to use 28xp to buy.&nbsp;<br>59)&nbsp;Disintegrating Circle(time):&nbsp;Opponent cannot use any neglect or defensive skill for 4 turns. 4cp to use. 38xp to buy.\n<br>60)&nbsp;Daichi Tenyo(atk):&nbsp;Destroy a defensive skill and give opponent 4 damage. 3cp to use. 26xp to buy.\n<br>61)&nbsp;Mirror Gate(def):&nbsp;Block either opponents previous or next skill used. 3cp to use. 25xp to buy.\n<br>62)&nbsp;Air Sand Protective Wall(trap): Defend against an attack of 4 and below, can be used in opponent's turn. 2cp to use. 22xp to buy.\n<br>63)&nbsp;Apinermal(atk):&nbsp;Give opponent 7 damage, if opponent does not die after you use this, you lose the battle. 4cp to use. 26xp to buy.\n<br>64)&nbsp;Azure Stream(gain): All your attacks are buffed by 1 for 5 of your turns. 3cp to activate. 12xp to buy.\n<br>65) Toad Gourd Prison(def/time): Puts opponent in a cage the he/she must use 3cp to escape if not deal 3 damage to him acoording to the cp left to pay. 1cp to use. 33xp to buy.\n<br>66)&nbsp;Eye Of The Butterfly(gain/atk):&nbsp;Gain 3hp and give opponent 3 damage. 4cp to use. 37xp to buy.\n<br>67)&nbsp;Chibaku Tensei(atk):&nbsp;Give opponent 3 damage, that opponent cant attack you next turn. 0cp to use. 30xp to buy.\n<br><br><br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20181208-wa0012-1600x1600.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "SHINIGAMI/SAMARAIS skills",
+                "contentAlign": "center",
+                "text": "this include weapon skills which are the basic skills for this race.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20181208-wa0014-1600x1600.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "SPELLCASTERS skills",
+                "contentAlign": "center",
+                "text": "1)&nbsp;3rd Teir Magic-Crest Healing(gain):&nbsp;Gain or give an ally 5hp. 3cp to use. 20xp to buy.\n<br>2)&nbsp;7th Tier Magic-Summon Primal Fire Elemental(nom): Summon a fire beast with a health of 7 &amp; attack of 2, opponent cannot attack you unless the beast is destroyed 9cp to activate. 30xp to buy.\n<br>3)&nbsp;4th Tier Magic-Magic Shield(def):&nbsp;Make a shield with a health of 5. Your health cannot be harmed by opponent until this shield is destroyed. 3cp to use. 27xp to buy.\n<br>4)&nbsp;Message(time):&nbsp;Allows you to talk to animals or players 30ft away, 2cp to use, or&nbsp;you can use 3cp to take control of a clone of summoned monster that took below 5 Cp for previous user to summon. 29xp to buy.\n<br>5)&nbsp;Little Aura Pressure(nom):&nbsp;This shows your opponent little of your magic aura, it will only be effective if your cp is higher than that of your opponent, due to shock opponent does not play nor skip but you play again. 3cp to use. 25xp to buy.\n<br>6.&nbsp;Full Aura Pressure(time):&nbsp;This shows your opponent your full magic aura, it will only be effective if your cp and crowns is higher than that of your opponent, due to shock opp does not play nor skip but you play again twice. 5cp to use. 34xp to buy.\n<br>7)&nbsp;Create Greater Item(nom):&nbsp;Allows you to change your battle card to another one of your battle cards even if it is from another race, your health and cp remains the same, you play again. 4cp to use. 33xp to buy.\n<br>8)&nbsp;5th Tier magic-Earth Surge(atk/def): Create a wave of liquid earth, if you use it to attack, do 4 damage to your opponent, or for defense, defend against your opponent's next attack. 3cp. to use. 28xp to buy.\n<br>9)&nbsp;6th Tier Magic-Invisibilty Spell(time):&nbsp;Opponent cannot attack you. This wears off if you attack. 4cp to use. 34xp to buy.&nbsp;<br>10)&nbsp;9th Tier Magic-Grasp heart(atk):&nbsp;If this skill is used by a E RANK kill an opponent with a health of 1, if used by the next rank instantly kill a opp that has a health of 2 and below, applies that way for all ranks also the cp used is the amount of damage opp receives. Defence OR NEGLECT skills cannot affect this skill, opponent cannot revive after death with another skill or KKG. 40xp to buy.\n<br>11)&nbsp;5th Tier Magic-Dragon Ligtining(atk):&nbsp;Destroy a defensive skill of an opponent currently used and give the player 3hp damage. 3cp to use. 28xp to buy.\n<br>12)&nbsp;9th Tier Magic-Create Death Knight(nom):&nbsp;Can only be used on a dead player on the field... raise that player from the dead into a death night, that player has their normal health but no cp and can use unlimited Nom attack which cannot be neglected and does 3 damage, &nbsp;anybody the death knight kills turns into a zombie with 3hp and 1 atk with the same effects. 10cp to use. 40xp to buy.\n<br>13)&nbsp;5th Tier Magic-Blood For Power Tribute(time):&nbsp;Pay half your health and the cp cost of all moves you use is divided by 2. 20xp to buy.\n<br>14)&nbsp;5th Tier Magic-Anti Life Coocoon(neg/time):&nbsp;All skills that do not use Cp cannot affect you for 5 of opponent's end turns. 27xp to buy.\n<br>15)&nbsp;4th Tier Magic-Goblin Flute(nom):&nbsp;Summon&nbsp;2 goblins with a health of 3 and atk of 1. Goblins are immune to time skills. 4cp to summon. 23xp to buy.\n<br>16)&nbsp;6th Tier Magic-Summon Archangel Flame(nom):&nbsp;Summon an archangel with a health of 5 and attack of 2, when this archangel recieves damage, its master receives the amount of damage as health. 5cp to summon. 29xp to buy.\n<br>17)&nbsp;6th Tier Magic-Summon Archangel Justice(nom):&nbsp;Summon an archangel with a health of 1 and atk of 1, when it is destroyed the effect of the KKG judgement takes place, user must lose 2cp to summon another archangel justice in their turn, stop effect when user doesn't have enough cp. 4cp to use. 23xp to buy.\n<br>18)&nbsp;9th Tier Magic-Summon Archangel Holy Smite(nom):&nbsp;Summon an archangel with a health of 5 and attack of 2. 2cp to summon. 27xp to buy\n<br>19)&nbsp;god Tier Magic-Archangel Ritual:&nbsp;When you have archangel flame, justice and holy smite on the field, use this and destroy the 3 archangels to summon archangel Lucifer, with a health of 6 and atrack is determined by the difference between you and your opponent's health, these attacks cannot be neglected. 5cp to use. 40xp to buy.\n<br>20)&nbsp;8th Tier Magic-Negative Burst(atk):&nbsp;Give all other players in the field 5 damage including allies. 3cp each for all players affected. 25xp to buy.\n<br>21)&nbsp;8th Tier Magic-Positive Burst(gain):&nbsp;Gain 2cp every OF YOUR end turn till you receive a damage of 5 and above. 30xp to buy.\n<br>22)&nbsp;2nd Tier Magic-Holy Ray(atk):&nbsp;Give opponent 3 damage. 1cp to use. 10xp to buy.\n<br>23)&nbsp;5th Tier Magic-Poison(atk/time): Opponent receives 1 damage for 4 of their end turns and their attack damages reduces by 1 during that time. 3cp to use. 28xp to buy.\n<br>24)&nbsp;4th Tier Magic-Shock Wave(atk):&nbsp;Give up to 2 opponents 3 damage. 3cp to use. 27xp to buy.\n<br>25)&nbsp;5th Tier Magic-Attack Resistance(time): &nbsp;All 5 or more damage you receive are reduced by 1.5 for 5 of your opponent's end turns. 4cp to use. 28xp to buy.&nbsp;\n<br>26)&nbsp;4th Tier Magic-Confusion(trap):&nbsp;Can be used in opponent's turn, when you are about to recieve any damage by opp from an attack skill reverse that damage to another opponent or player in the field. Cp is cost of cp used for the attack skill. 26xp to buy.\n<br>27)&nbsp;6th Tier Magic-Charge Of Stalagmite(time):&nbsp;You skip this turn and double damage of the skill you will use in your next turn. 2cp to use. 25xp to buy.\n<br>28)&nbsp;4th Tier Magic-Open Wounds(atk):&nbsp;If your opp recieved damage in your last turn give him half of that damage in this turn, you still play. 2cp to use. 20xp to buy.\n<br>29)&nbsp;5th Tier Magic-Word Of Curse(nom):<br>***Verse 1-&nbsp;Opponent cannot use cp for their next 2 turns. <br>***Verse 2-&nbsp;Opponent cannot give you damage for the same 2 turns.<br>***Verse 3-&nbsp;Every skill Opponent uses has its cp cost multiplied by 1.5 for next their next 2 turns<br>Note:&nbsp;You can only use one verse per time. 4cp to use. 30xp to buy.&nbsp;\n<br>30)&nbsp;5th Tier Magic-Blind Senses(time):&nbsp;Opponent cannot sense you, which means opponent cannot directly attack you or use defense skills because they do not know where to attack or defend, this spell wears off when you attack. 4cp to use. 29xp to buy.\n<br>31)&nbsp;6th Tier Magic-Hell Flame(atk): Does 5 damage to opponent, it also destroys an opponent's defensive skill if it is active. 3cp to use. 26xp to buy.\n<br>32)&nbsp;5th Tier Magic-Sealing Cystal(time):&nbsp;Seal an opponent skill that uses 5cp or below or 5th tier and below, even used skills can be sealed (time skills, defensive skills &amp; even modes) the sealed skill cannot be used unless this skill is destroyed. 4cp to activate. 25xp to buy.\n<br>33)&nbsp;6th Tier Magic-Black Hole(neg/trap):&nbsp;Neglect an attack(this can be used in opponent's turn) or destroyer a summoned or clone of 5 health and below. 3cp to use. 27xp to buy.\n<br>34)&nbsp;5th Tier Magic-Apprasal Magic Item(nom):&nbsp;Can be used to know the details of a magic item or to see 2 of opponent's skill in his/her card. 1cp to use. 25xp to buy.\n<br>35)&nbsp;4th Tier Magic-Alarm(nom)(Locked):&nbsp;Allows you to sense opponents from afar even if they are visible, you can even attack opponents you cannot see or touch. 2cp to use. 26xp to buy.\n<br>36)&nbsp;3rd Tier Magic-Reinforce Armor(gain/time):&nbsp;Increases all your attack skills damage by 1 for 5 of your end turns after this skill is used. 3cp to use. 25xp to buy.\n<br>37)&nbsp;2nd Tier Magic-Twine Plant(def):&nbsp;Opponent cannot use an attack skill in their next turn, you still play. 1cp to use. 19xp to buy.\n<br>38)&nbsp;3rd Tier Magic-Magic Arrow(atk): Does 4 damage to opponent, this damage cannot be neglected. 3cp to use. &nbsp;18xp to buy.\n<br>39)&nbsp;4th Tier Magic-Light Healing(gain):&nbsp;Give up to 3 allies 3hp. 4cp to use. 26xp to buy.\n<br>40)&nbsp;4th Tier Magic-Curse Wound(time):&nbsp;Opponents can't heal no matter what for 5 of their turns. 3cp to use. 18xp to buy\n<br>41)&nbsp;4th Tier Neglect Magic-Counter Vanish(trap): When your opponent is about to use an attacking skill that gives 5 or below damage, neglect the attack(can be used in opponent's turn). 4cp to use. 20xp to buy.\n<br>42)&nbsp;6th Tier Magic-Full Counter(trap):&nbsp;In your opponent's turn, when your opponent is about to use a atk skill that uses cp and takes 8 or below health, reflect the damage(you receive no damage) opponent can pay the amount of cp equal to the damage he/she is meant to recieve to neglect/decrease damage accordinly the damage. 4cp to use. 36xp to buy.\n<br>43) 7th Tier Magic-Skill Theft(trap):&nbsp;When an opponent attempts to use an attacking skill on you, steal the skill(you take no damage) and keep it for yourself to be used in the battle. It is used in opponents's turn. 3cp to use. 38xp to buy.\n<br>44) 6th Tier Magic-Ultimate Sacrifice(atk):&nbsp;When your health is at 3 and below, give everyone in th field including yourself 7 damage, players killed by this cannot revive by any means. 4cp to use. 43xp to buy.\n<br>45)&nbsp;2nd Tier Magic-Full Concentration(nom):&nbsp;After using this, you play again, must be an attack, the attack cannot be neglected even by opponent you cannot attack. 2cp to use. 18xp to buy.\n<br>46)&nbsp;3rd Tier Magic-Redo(trap):&nbsp;Anytime an opponent uses a neglect skill to neglect or redirect your attack, use this skill to destroy that skill. 3cp to use. 27xp to buy.\n<br>47)&nbsp;Super magic shot(atk):&nbsp;Give an opponent 6 damage. 4cp to use. 26xp to buy.\n<br>&nbsp;48)&nbsp;3rd Tier Magic-Pressure Nulification(def/time):&nbsp;Your opponent's next 2 attacks that give 4 and below damage are defended against. 4cp to activate. 21xp to buy.\n<br>49) mana gain(gain):&nbsp;You gain 5cp, you still play. 36xp to buy.\n<br>50)&nbsp;4th Tier Magic-Kami Chigiri(atk/time):&nbsp;Give opponent 2 damage, opponent continues to lose 1hp for 3 of their end turns. 3cp to activate. 26xp to buy.&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "WIZARD IS UNDER DEVELOPMENT",
+                "contentAlign": "center",
+                "text": "Fire,water,air,earth attacks(put your element name before the attack)\n<br>\n<br>1)*shot (atk)– deal 3 damage to opp. 1 cp .15xp\n<br>2)*punch(atk)- give your punch damage plus 3 to your  opp. 3cp .18xp to buy\n<br>3)*block(def): puts a wall of your element with a hp of 3. 1 cp. 12xp to buy\n<br>4)* smash(attack): when opp has a def up, break that defense skill and give him 5 damage. 3cp. 23xp\n<br>5)* tornado(time): if this skill successfully affects your opponent , they cant attack for 2 of their turns. 29xp\n<br>6)* circle(attack): put a circle of your element around your opponent , if opponent attacks next turn he takes same damage he gives you. 3cp\n<br>7)* trap(trap)- only when you skipped your last turn, when you are about to be attacked by your opponent give him 3 damage and stop the attack if the damage you were suppose to receive is less than or equal to 4. 2cp to use\n<br>8)Hell fire(fire only): all other attacks used after this are covered in hell fire, and any per hit by an attack covered with hell fire can not recover hp or cp. 4cp. 40xp. C rank needed\n<br>9) *wave(attack)- 2 die are rolled , give opp damage according to the number of the first one rolled and pay cp according to the second one rolled the second one rolled. 30xp\n<br>10)*slap – if opponent did not attack last turn give opp  4 damage , 2cp. 25 xp\n<br>11)push-opp must skip next turn. 1 cp. 10xp \n<br>12)chain-\n<br>serpent attack\n<br>lock\n<br>shield\n<br>Drown\n<br>2)&nbsp;Fire Circle(atk):&nbsp;Deal 4hp damage to all surrounding players including allies.3cp to use. 19xp to buy.\n<br>3)&nbsp;Fire Explosion(atk):&nbsp;Deal 5 damage to your opponent and 2 to you, in the next turn opponent cannot attack due to explosion effects. 4cp to use. 23xp to buy.\n<br>4)&nbsp; serpent(atk):&nbsp;Give 6 damage to opponent, if opponent does not die by this give yourself 4 damage. 4cp to use. 25xp to buy.\n<br>5)&nbsp;Secret Art- quake(atk):&nbsp;Give all opponents 6 damage this is combination attack which must be used only when you have a wizard in the field as an ally. 7 Cp each from both wizards to use. 25xp to buy.\n<br>6) Kick(atk):&nbsp;Give opponent 4 damage. 2cp to use. 14xp to buy.\n<br>7) Marker(time):&nbsp;Any time your opponent is about to use a skill your opponent takes damage equal the Cp used for that skill, lasts for 5 of your turns. 5cp to use. 25xp to use.\n<br>8) World(def):&nbsp;When you are about to take damage from a skill that uses 4 or more cp, redirect the damage to your opponent or take the damage and give your opponent double damage. 6cp to use. 25xp to buy.\n<br>9) Clone(gain):&nbsp;Spawn a clone with the same skill log as you, the clone has a health of 5. 4cp to use. 18xp to buy.\n<br>10) Grip(atk):&nbsp;Give opponent 3 damage but you recieve 2 damage after 2 turns of using this. 2cp to use. 5xp to buy\n<br>11)&nbsp;Chain Explosion(atk/time):&nbsp;Cause a chain explosion which causes all opponents to take 2 damage for 3 of their end turns. 6cp to use. 29xp to buy.\n<br>12) Cage(time):&nbsp;Your opponent recieve 2 damage for every attacking skill they use, lasts for 4 of their end turns. 3cp to use. 15xp to buy.\n<br>13)&nbsp;Disaster(time):&nbsp;Any attack that does less than 4 damage is doubled, this effect lasts for 3 of your turns. 2cp to activate. 17xp to buy.\n<br>14)&nbsp;Frost bite(nom):&nbsp;Your opponent has to skip 1 turn. 2cp to use. 13xp to buy.\n<br>15)&nbsp;Fox hunt(time):&nbsp;The cp of every attacking move your opponent plays is doubled for 4 of their end turns. 5cp to activate. 19xp to buy.\n<br>\n<br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-10",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-w"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "WEAPONS,CLOTHING AND ARMORS",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12"
+        },
+        {
+          "text": "<p>shop and character design will be open shortly... although the art is not good right now because of lack of equipment ...please bear with us..</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1g"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/character-design-1400x1054.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "this is basically the character design as of now..note that it is just a sample and not the real work.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1h"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "OTHER RULES",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-14"
+        },
+        {
+          "text": "<p>CHARACTER CARD\n</p><p>A new character card can be bought for 100xp. This card can be from another race. You can switch between character cards to use per battle but cannot switch during a battle(unless you have a skill which can do that or its part of the rules).\n</p><p>HOW TO GET CROWNS\n</p><p>Crowns are also gotten by battling\n</p><p>Beating an opponent in your rank</p><p>Beating an opponent at least 2 ranks above you</p><p>Beating an opponent before or at 5 turns&nbsp;</p><p>Note: You can run from a battle without losing crowns by using 3xp.\n</p><p>OTHER NOTES:\n</p><p>Modes can always be reactivated when deactivated, but you need to meet the requirements of using that mode first.\n</p><p>Health difference based moves cannot be used by clones.\n</p><p>Chakra fruit can only be used by 2 clones max.</p><p><br></p><p>\n</p><p>\n</p><p>others\n</p><p>Learn how the game is played and how to improve and strategise\n</p><p>Terms:\n</p><p>Card-&nbsp;This holds your skills/moves. This is what you use in-battle. When you first join, you have a card that has 6 moves &amp; 8 slots(a slot can be bought with 10xp, max number of slots is varies with race). Every player has a card, do not show other players your card(except from admins) so your moves will not be predictable.\n</p><p>Skills/Moves/Justu-&nbsp;These are what you use in battle. You use the moves given in your card to fight. Moves can also &nbsp;be bought using xp. There are special moves(KKG) which cannot be bought and cannot be changed when you are given in your card.\n</p><p>Battle-&nbsp;This is a fight between players in the game, there are different types of battles, including one-on-one, two-on-two(tag team), friendly battle, death batlle, beast battle, tounament battle, etc. A battle is won when a player reduces his/her opponenets health to zero.\n</p><p>Health(HP)-&nbsp;This differs depending on your race(more about this in the&nbsp;Races &amp; Villages&nbsp;section). This is an essential factor because if an opponent depletes this completely during a battle, that battle is lost.\n</p><p>Charge Points(CP)-&nbsp;This is the amount of energy one has. This is needed to perform most moves, it also differs depending on your race. If your cp drops to zero during a battle, you can skip a turn and gain 2cp, but you lose 2hp in the process as well. note that ki, chakra and others a summarized as cp in this game\n</p><p>Xp:&nbsp;This is the in-game monetary system, xp is gotten from winning battles &amp; can also be bought using real money.&nbsp;\n</p><p>Crowns-&nbsp;These are needed to level up your character rank, crowns are gotten from winning battles. Increasing your rank increases the amount of health and charge points you have at the start of a battle.</p><p><br></p><p>\n</p><p>Ranks are as follows\n</p><p>F:&nbsp;0-199 crowns\n</p><p>E:&nbsp;200-399 crowns\n</p><p>D&nbsp;400-799 crowns\n</p><p>C:&nbsp;800-1299 crowns\n</p><p>B:&nbsp;1300-1799 crowns\n</p><p>A:&nbsp;1800-2499 crowns\n</p><p>S:&nbsp;2500-2999 crowns\n</p><p>SS:&nbsp;3000-3999 crowns\n</p><p>X:&nbsp;4000- 4999 crowns\n</p><p>GAG:&nbsp;5000 crowns &amp; above\n</p><p>\n</p><p>These are specials gotten by increasing rank. IT IS DIFFERENT FOR DIFFERNET RACE OR CLASS\n</p><p>E:&nbsp;+2hp\n</p><p>D:&nbsp;+2cp\n</p><p>C:&nbsp;+1hp\n</p><p>B:&nbsp;+1cp\n</p><p>A:&nbsp;+2cp\n</p><p>S-Class:&nbsp;+2hp\n</p><p>SS:&nbsp;+2cp\n</p><p>X:&nbsp;+2hp\n</p><p>GAG:&nbsp;+3hp &amp; +3cp</p><p><br></p><hr><p>\n</p><p>OTHERS\r</p><p>Things To Note\r</p><p>HOW TO GET XPs\r</p><p>Xps can be gotten from wining battles\r</p><p>Beating an opponent in your rank or below yours - 1xp\u000bBeating an opponent 2 ranks above you - 2xp\u000bBeating an opponent before or at 5 turns - +1xp\r</p><p>Xps can also be bought from an admin at the rate of 5xp per 100naira(bonus will be given)\u000bNote: Crowns cannot be bought\r</p><p>ALL BATTLE TYPES\r</p><p>1-on-1 Battle\u000b2-on-2 Tag Team Battle\u000b2-on-1 Handicap Battle\u000bFusion Battle\u000bTournament Battle\u000bEvent Battle\u000bBeast Battle\u000bDeath Battle\r</p><p>During Event &amp; Beast Battles, you are allowed to use special gains called Senzu Beans &amp; Energy capsules. During eventmbattles you can use 2 of each while during beast battles you can only use 1 of each. To use these gains they must be bought before the battle. When you use these gains in the battle, you still play.\r</p><p>Senzu Bean: Gain 5 health. 1xp to buy.\u000bEnergy Capsule: Gain 5cp. 1xp to buy.\r</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "modes",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-16"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-17"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "MODES<br>Modes are power-ups which are used in battle. There are different modes with many different uses. There are more defensive modes and more attacking ones. Some modes can be bought while some others cannot. Multiple modes cannot be used simultaneously(i.e only one mode can be used at a time).MODES can also been switched on and off so far you have the specfied cp.\n<div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "sayain modes",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "36px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ssj1-436x349.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "super sayain 1",
+          "caption1": "Super Saiyan 1:&nbsp;Gain 3cp, copy a used move from your opponent's card and give it to you or a member of your team. All damage you take from attacking skills are reduced by 1. 4cp to activate. 28xp to buy&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ssj2-bg02-436x245.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "super sayain 2",
+          "caption2": "Super Saiyan 2:&nbsp;Every end turn,&nbsp;Remove 2hp from all players that have other modes or beasts in the battle. All damages done by your attacking skills is increased by 1. You lose 1cp every of your end turn. 2cp to activate, do not use cp if already in Super Saiyan 1 mode. Cannot be used without having Super Saiyan 1. 30xp to buy.\n<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ssj3-436x378.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "super sayain 3 <br>(c rank required)",
+          "caption3": "Super Saiyan 3:&nbsp;For all time skills, you get 2cp for each of them been used every of your turn. You lose 1cp every of your end turn. End this mode when your cp reaches 3 or below.&nbsp;Expert Level Needed.&nbsp;3cp to activate, do not use cp if already in Super Saiyan 2. Cannot be used without having Super Saiyan 2. 35xp to learn.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/goku-ssj4-436x565.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "ssj 4<br>(b rank required)",
+          "caption4": "Super Saiyan 4:&nbsp;Any neglect skill used by your opponent is neglected(if it can be neglected) and gives you 2hp and 2cp. All your attacking skills damages are increased by 1. All damage you receive from attacking skills is reduced by 1. You lose 1cp every of your end turn. You can remove yourself from this mode only when you are about to end your turn(even if you play a skill in that turn). This mode automatically ends when your hp reaches 5 or below.&nbsp;Expert level needed. 6cp to activate, do not use cp if already in Super Saiyan 2 mode. Cannot be used without having Super Saiyan 2. 44xp to buy.&nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-19",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/goku-super-saiyan-god-wallpaper-1-436x727.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "super sayain god<br>(b rank required)",
+          "caption1": "Super Saiyan god:&nbsp;All opponent's attacks are divided by 2 while in this mode. This mode automatically ends when you have no cp left.&nbsp;Expert level. 4cp to activate. Cannot be bought without having SS1 &amp; SS2. 50xp to buy.&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ssgss-436x504.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "super sayain god super sayain 1<br>(a rank required)",
+          "caption2": "Super Saiyan Blue:&nbsp;All your attacks damage are increased by 2. All damage you receive from attacking skills are divided by 1.5. You lose 1cp every of your end turn. This mode automatically ends when your cp reaches 5 or below.&nbsp;Expert Level needed. 5cp to activate. Cannot be bought without having SS1, SS2 &amp; SSG. 60xp to buy.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/goku-super-saiyan-5-by-el-maky-z-d5q1w1v-436x574.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "super sayain 5<br>(s rank required)",
+          "caption3": "Super Saiyan 5:&nbsp;All your attacks are multiplied by 1.5. All damage you take from attacking skills is reduced by 1. You lose 1cp every turn. 5cp to activate, do not use cp if already in Super Saiyan 4 mode, cannot be used without having Super Saiyan 4 mode. 60xp to buy.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lssj1-436x654.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "lss 1<br>(locked)",
+          "caption4": "Legendary Super Saiyan 1:&nbsp;You gain 4cp. All damage you take from skills that use cp is reduced by 2, all your attacks are increased by 1. This mode automatically ends when your life is 5 or below. 5cp to activate. It is only given by chance.&nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "features1-1b"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "CONTACTS",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#d14841",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__section": {
+              "background": "#d14841"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">HOW TO PLAY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">OTHER RULES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">RACES AND VILLAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">SKILL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">MODES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">SHOP and charater design</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ftsb6593-99x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANIME FORCE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OMEGA STUDIO. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "oluyohokiemute@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "oluyohokiemute@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1f"
+        }
+      ]
+    }
+  }
+}
