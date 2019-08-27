@@ -218,6 +218,9 @@
   color: #ffffff;
 }
 
+
+
+
 #ext_menu-16 .mbr-brand__name {
   font-size: 16px;
 }
@@ -241,6 +244,45 @@
 #features1-1b P {
   font-size: 13px;
 }
+#features1-1s P {
+  font-size: 13px;
+}
+#header3-1t H3 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Lora', serif;
+}
+#features1-1u P {
+  font-size: 13px;
+}
+#features1-1v P {
+  font-size: 13px;
+}
+#features1-1w P {
+  font-size: 13px;
+}
+#header3-1x H3 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Lora', serif;
+}
+#features1-1y P {
+  font-size: 13px;
+}
+#header3-21 H3 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Lora', serif;
+}
+#features1-22 P {
+  font-size: 13px;
+}
+#features1-23 P {
+  font-size: 13px;
+}
+#features1-24 P {
+  font-size: 13px;
+}
 #ext_menu-1c .mbr-brand__name {
   font-size: 16px;
 }
@@ -251,5 +293,29 @@
   background: #d14841;
 }
 #ext_menu-1c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #d14841;
+}
+#ext_menu-1i .mbr-navbar__section {
+  background: #d14841;
+}
+#ext_menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1z .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #d14841;
+}
+#ext_menu-1z .mbr-navbar__section {
+  background: #d14841;
+}
+#ext_menu-1z .mbr-navbar__hamburger {
   color: #ffffff;
 }
