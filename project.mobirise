@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ANIME FORCE",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -55,7 +55,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ANIME FORCE",
-          "text": "<b>you gotta win so it looks like you're cheating</b><br><br><b>UPDATES</b><br><b>*few skills prices and effects have been updated</b>",
+          "text": "<b>you gotta win so it looks like you're cheating</b><br><br><b>UPDATES</b><br><b>*few skills prices and effects have been updated</b><br><b>9/16/19</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
           "_tags": [
             "Theme"
