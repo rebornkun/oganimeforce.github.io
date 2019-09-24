@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ANIME FORCE",
-    "currentPage": "page13.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -99,7 +99,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -111,10 +111,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#fac51c"
+              "background": "#faaf40"
             },
             ".mbr-navbar__section": {
-              "background": "#fac51c"
+              "background": "#faaf40"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -208,7 +208,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -276,7 +276,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -1333,7 +1333,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -1561,7 +1561,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -2032,7 +2032,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -2133,7 +2133,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -4188,7 +4188,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -4364,7 +4364,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -4524,7 +4524,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -4664,7 +4664,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -4898,7 +4898,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -7639,7 +7639,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -7748,7 +7748,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -7888,7 +7888,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -8201,7 +8201,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#fac51c",
+            "color": "#faaf40",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
